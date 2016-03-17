@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?>
+<?xml version="1.0" encoding="UFT-8"?>
     <widget xmlns   = "http://www.w3.org/ns/widgets"
 	    xmlns:gap   = "http://phonegap.com/ns/1.0"
 		id          = "com.phonegap.example1"
@@ -16,7 +16,7 @@
 	<preference name="phonegap-version" value="3.1.0" />
 	
 	<author href="https://build.phonegap.com" email="support@phonegap.com">
-	    CARLOS ANTONIO OTERO ORIHUELA
+	    cristal nolasco valerio
 	</author>
 	
 <gap:plugin name="org.apache.cordova.device" version="0.2.12" />
